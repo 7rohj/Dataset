@@ -23,3 +23,6 @@
 국가교통정보센터 (https://www.its.go.kr/opendata/opendataList?service=event)<br/>
 
 open api 다 막혀있다. 왜일까.? 😔
+
+#### 고속도로구간별 도로위험지수정보 
+교통사고정보개방시스템 (https://taas.koroad.or.kr/api/selectHighwayDataSet.do)
