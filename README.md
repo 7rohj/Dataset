@@ -24,5 +24,7 @@
 
 open api 다 막혀있다. 왜일까.? 😔
 
-#### 고속도로구간별 도로위험지수정보 
+#### 고속도로구간별 도로위험지수정보
+#### 고속도로 출입시설 위치정보 << ..
 교통사고정보개방시스템 (https://taas.koroad.or.kr/api/selectHighwayDataSet.do)
+한국도로공사 고속도로 공공데이터 포털 (http://data.ex.co.kr/openapi/basicinfo/openApiInfoM?apiId=0122&serviceType=&keyWord=&searchDayFrom=2014.12.01&searchDayTo=2022.05.23&CATEGORY=TR&GROUP_TR=COD_STD)
