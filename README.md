@@ -16,3 +16,10 @@
 #### - 도로중심선 <br/>
 한국도로공사 고속도로 공공데이터 포털 (http://data.ex.co.kr/) <br/>
 `(고속도로 공공데이터 포털 > 유지관리 > 도로)`
+
+#### - 실시간 돌발 정보
+경기도교통정보센터 (https://openapigits.gg.go.kr/api/jsp/manual_getIncidentInfo.jsp?m1=2&m2=6) <br/>
+서울 열린데이터 광장 (http://data.seoul.go.kr/dataList/OA-13315/A/1/datasetView.do) <br/>
+국가교통정보센터 (https://www.its.go.kr/opendata/opendataList?service=event)<br/>
+
+open api 다 막혀있다. 왜일까.? 😔
