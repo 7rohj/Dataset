@@ -22,9 +22,11 @@
 서울 열린데이터 광장 (http://data.seoul.go.kr/dataList/OA-13315/A/1/datasetView.do) <br/>
 국가교통정보센터 (https://www.its.go.kr/opendata/opendataList?service=event)<br/>
 
+경기도교통정보센터 (https://gits.gg.go.kr/gtdb/web/trafficDb/visualization/data/view.do?boardNo=1925&boardOrder=1665&schGubunCode=02&schCon=0&schStr=&pageIndex=1) <br/>
+
 open api 다 막혀있다. 왜일까.? 😔
 
-#### 고속도로구간별 도로위험지수정보
-#### 고속도로 출입시설 위치정보 << ..
+#### - 고속도로구간별 도로위험지수정보
+#### - 고속도로 출입시설 위치정보 << ..
 교통사고정보개방시스템 (https://taas.koroad.or.kr/api/selectHighwayDataSet.do) <br/>
 한국도로공사 고속도로 공공데이터 포털 (http://data.ex.co.kr/openapi/basicinfo/openApiInfoM?apiId=0122&serviceType=&keyWord=&searchDayFrom=2014.12.01&searchDayTo=2022.05.23&CATEGORY=TR&GROUP_TR=COD_STD)
