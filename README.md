@@ -31,6 +31,9 @@ open api 다 막혀있다. 왜일까.? 😔
 교통사고정보개방시스템 (https://taas.koroad.or.kr/api/selectHighwayDataSet.do) <br/>
 한국도로공사 고속도로 공공데이터 포털 (http://data.ex.co.kr/openapi/basicinfo/openApiInfoM?apiId=0122&serviceType=&keyWord=&searchDayFrom=2014.12.01&searchDayTo=2022.05.23&CATEGORY=TR&GROUP_TR=COD_STD)
 
+#### - 휴게소 현황 & 졸음쉼터 설치현황 (+ 도시이정데이터)
+
+
 ### 국가교통DB
 https://www.ktdb.go.kr/www/selectBbsNttList.do?key=301&bbsNo=18&searchY=&searchCtgry=&searchDplcCtgry=&pageUnit=10&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=2
 
