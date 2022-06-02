@@ -33,6 +33,9 @@ open api 다 막혀있다. 왜일까.? 😔
 
 #### - 휴게소 현황 & 졸음쉼터 설치현황 (+ 도시이정데이터)
 
+#### - 사고다발지점, 교통약자다발지점, 대형/중대사고다발지점... ⭐
+교통안전정보관리시스템 (https://tmacs.kotsa.or.kr/web/TG/TG300/TG3100/Tg2127.jsp?mid=S1810#)
+
 
 ### 국가교통DB
 https://www.ktdb.go.kr/www/selectBbsNttList.do?key=301&bbsNo=18&searchY=&searchCtgry=&searchDplcCtgry=&pageUnit=10&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=2
